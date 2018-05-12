@@ -1,0 +1,31 @@
+_repo: The-Bunsby-papersIrish-Echoes_41317
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41317-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brougham, John
+    birthdate: 1810
+    deathdate: 1880
+    gutenberg_agent_id: '41108'
+    url: http://www.gutenberg.org/2009/agents/41108
+description: ''
+gutenberg_issued: '2012-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+tableOfContents: 'Dan Duff''s wish, and what came of it -- The Blarney Stone -- The
+  Gospel Charm -- The test of blood -- The morning dream -- The fortune-teller --
+  The fairy circle -- O''Bryan''s luck: a tale of New York -- The Tipperary Venus.'
+title: 'The Bunsby Papers (second series): Irish Echoes'
+url: http://www.gutenberg.org/ebooks/41317
