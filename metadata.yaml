@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41108'
     url: http://www.gutenberg.org/2009/agents/41108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41317#The-Bunsby-papersIrish-Echoes
 gutenberg_issued: '2012-11-07'
 gutenberg_type: Text
 identifiers:
